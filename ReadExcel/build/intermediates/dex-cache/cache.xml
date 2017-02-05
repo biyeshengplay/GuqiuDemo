@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.3.0_14dc0db66eaa3899d01657997490c41d3cf2af8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_08100e4919bf08f6c458a598906d44ddc9b5a422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_d79656972019b52120d9a672f9efa486e9648b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/.gradle/caches/modules-2/files-2.1/com.meituan.android.walle/payload_reader/1.0.3/362f4550a3abf0c38469f92996ff161b466a40de/payload_reader-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="362f4550a3abf0c38469f92996ff161b466a40de">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/payload_reader-1.0.3_987668e3d23f74d9cd17c0a4c54a666e80393142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_2f1ca3078c6300fc25eae25b2db6920f7a1402f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/libs/jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a6f224353653001716448dec51065d050ac782b7">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/jxl_008fdbd429602b1354ff77f98620e1a5300ba7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/software/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_14294882a328624531cfde93cf2ff2c554a29dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/core-3.2.1_968c6e8f0a00744761a9bfc12c644bb7e0a94855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/exploded-aar/com.meituan.android.walle/library/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c053c695b58f0e3ee86c92093cc38a930654588">
+        <dex dex="/Users/alvinlee/code/GuqiuDemo/ReadExcel/app/build/intermediates/pre-dexed/debug/com.meituan.android.walle-library-1.0.3_fd227280ca0e2644300df1e5b752ff9aa6070444.jar" />
+    </item>
+
+</items>
