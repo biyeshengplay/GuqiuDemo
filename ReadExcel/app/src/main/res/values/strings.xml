@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReadExcel</string>
+    <string name="all_name">AllData</string>
+    <string name="camera_name">CameraData</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">注意事项：\nexcel表格放到sdcard目录下\n命名必须为price.xls\n如果为xlsx格式的请使用office将格式转化为xls</string>
+
+</resources>
